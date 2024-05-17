@@ -41,6 +41,7 @@
 # Tecnologias utilizadas
 
 <p>linguagem de programação: JDK v21</p>
+<p>Framework: Spring</p>
 <p>IDE: Intellij IDEA</p>
 <p>Api: Gutendex</p>
 <p>Banco de dados: PostgreSQL</p>
